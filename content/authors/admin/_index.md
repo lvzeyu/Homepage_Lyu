@@ -61,7 +61,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: uploads/cv_zeyu_lyu.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: mailto:lyu.zeyu.r8@dc.tohoku.ac.jp
