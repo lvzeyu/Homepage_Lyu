@@ -4,9 +4,10 @@ title: "Disparity and Dynamics of Social Distancing Behaviors in Japan: An
 publication_types:
   - "2"
 authors:
-  - Zeyu Lyu
+  - admin
   - Hiroki Takikawa
 doi: accepted
+publication: JMIR Medical Informatics
 draft: false
 featured: false
 image:
