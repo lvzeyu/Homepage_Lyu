@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
   - Hiroki Takikawa
-doi: accepted
+doi: Accepted
 publication: JMIR Medical Informatics
 draft: false
 featured: false
